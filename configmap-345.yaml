@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-   name: configmap-
+   name: configmap-345
    namespace: default
 data:
    key: "value"
